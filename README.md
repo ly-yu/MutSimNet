@@ -40,15 +40,13 @@ Part of the code involved in this paper has been uploaded.
 
 Part of the code involved in the paper has been uploaded.
 
-Model weights: 
-
 # Paper
 
-[Paper](MutSimNet)：Mutually Reinforcing Similarity Learning for RS Image Change Detection
+[Paper](None)：Mutually Reinforcing Similarity Learning for RS Image Change Detection
 
 # Model
 
-See the paper for details.
+[model weights](): Weight files saved by model training.
 
 # Datasets
 
