@@ -124,7 +124,7 @@ After installing PaddlePaddle through the official website, you can follow the f
 
 ## Code
 
-```bash
+```
 ├── MutSimNet
     ├── Preparation.ipynb         
     ├── PaddleCD
@@ -145,6 +145,7 @@ After installing PaddlePaddle through the official website, you can follow the f
     │   ├──requirements.txt
     │   ├──setup.py
     ├── README.md              
+'''
 
 
 ## Train
