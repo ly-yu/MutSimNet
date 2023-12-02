@@ -31,7 +31,7 @@ Part of the code involved in this paper has been uploaded.
             - [Levir_CD](#Training)
             - [S2Looking](#Training)
         - [Val](#Val)
-            - [Levir_CD上](#Verifying)
+            - [Levir_CD](#Verifying)
             - [S2Looking](#Verifying)
     
 <!-- /TOC -->
