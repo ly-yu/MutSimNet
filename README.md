@@ -145,7 +145,8 @@ After installing PaddlePaddle through the official website, you can follow the f
     │   ├──requirements.txt
     │   ├──setup.py
     ├── README.md              
-'''             
+'''
+        
 ## Train
 
 ### Train
