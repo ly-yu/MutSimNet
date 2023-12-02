@@ -107,9 +107,9 @@ After installing PaddlePaddle through the official website, you can follow the f
   !pip install -v -e .            # This line needs to be re-run if the code is modified, but not if the configuration file is changed.
   
   !python setup.py install
-    ```
+ ```
 
-  ```python
+```python
   # train
   python tools/train.py --config configs/CD/Swin_Tiny_CD_Sub.yml --save_interval 800 --use_vdl --save_dir output/UperNet_Sub --log_iters 50 --num_worker 2 --do_eval --precision fp16 --amp_level O1
 
@@ -118,7 +118,7 @@ After installing PaddlePaddle through the official website, you can follow the f
 
   # predict
   python predict.py --config configs/CD/Swin_Tiny_CD_Sub.yml --model_path output/UperNet_Sub/best_model/model.pdparams --image_path data/test/ --save_dir output/result --custom_color 0 0 0 255 255 255
-    ```
+```
 
 # Code
 
@@ -145,7 +145,7 @@ After installing PaddlePaddle through the official website, you can follow the f
     │   ├──requirements.txt
     │   ├──setup.py
     ├── README.md              
-               
+'''             
 ## Train
 
 ### Train
