@@ -145,7 +145,7 @@ After installing PaddlePaddle through the official website, you can follow the f
         │   ├──requirements.txt
         │   ├──setup.py
         ├── README.md              
-    
+    '''
 
 
 ## Train
@@ -154,16 +154,16 @@ After installing PaddlePaddle through the official website, you can follow the f
 
 - GPU processor runs in 32G environment.
 
-'''python
+    '''python
 
         python tools/train.py --config --save_interval --use_vdl --save_dir --log_iters --num_worker --do_eval --precision --amp_level
-'''
+    '''
 
 ##Val
 ###Val
 - Evaluation at runtime in GPU environment.
 
-'''python
+    '''python
 
         python tools/val.py --config --model_path 
-'''
+    '''
