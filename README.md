@@ -11,13 +11,13 @@ Part of the code involved in this paper has been uploaded.
 - [MutSimNet](#MutSimNet)
 - [Model](#Model)
 - [Datasets](#Datasets)
-- [Evaluation Metrics](#Evaluation Metrics)
+- [Evaluation Metrics](#Metrics)
     - [F1](#F1)
     - [recall](#recall)
     - [IoU](#IoU)
     - [precision](#precision)
 - [Environment](#Environment)
-- [Quick start](#Quick start)
+- [Quick start](#start)
 - [Code](#Code)
     - [Scripts](#Scripts)
     - [Parameters](#Parameters)
@@ -28,17 +28,18 @@ Part of the code involved in this paper has been uploaded.
 - [Model](#Model)
     - [Performance](#Performance)
         - [Train](#Train)
-            - [Levir_CD](#Training the MutSimNet on the Levir_CD)
-            - [S2Looking](#Training the MutSimNet on the S2Looking)
+            - [Levir_CD](#Training)
+            - [S2Looking](#Training)
         - [Val](#Val)
-            - [Levir_CD上](#Verifying MutSimNet on Levir_CD)
-            - [S2Looking](#Verifying MutSimNet on S2Looking)
+            - [Levir_CD上](#Verifying)
+            - [S2Looking](#Verifying)
             - 
 <!-- /TOC -->
 
 # MutSimNet
 
 Part of the code involved in the paper has been uploaded.
+Model weights: 
 
 # Paper
 
