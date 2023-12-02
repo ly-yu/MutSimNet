@@ -122,7 +122,7 @@ After installing PaddlePaddle through the official website, you can follow the f
 
 # Code
 
-## Code
+## Catalogue
 
   ```
     ├── MutSimNet
@@ -150,7 +150,6 @@ After installing PaddlePaddle through the official website, you can follow the f
 
 ## Train
 
-### Train
 
 - GPU processor runs in 32G environment.
 
@@ -161,10 +160,9 @@ After installing PaddlePaddle through the official website, you can follow the f
 
 ## Val
 
-### Val
 - Evaluation at runtime in GPU environment.
 
-  ```
+  ```python
 
         python tools/val.py --config --model_path 
   ```
