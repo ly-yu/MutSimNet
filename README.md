@@ -124,28 +124,28 @@ After installing PaddlePaddle through the official website, you can follow the f
 
 ## Code
 
-```
-├── MutSimNet
-    ├── Preparation.ipynb         
-    ├── PaddleCD
-    │   ├──configs                   
-    │   │   ├──CD
-    │   ├──paddleseg                   
-    │   │   ├──CD           
-    │   ├──contrib               
-    │   ├──data          
-    │   ├──deploy          
-    │   ├──docs               
-    │   ├──EISeg          
-    │   ├──Matting
-    │   ├──paddleseg.egg-info
-    │   ├──test_tipc
-    │   ├──tests
-    │   ├──tools
-    │   ├──requirements.txt
-    │   ├──setup.py
-    ├── README.md              
-'''
+    ```bash
+    ├── MutSimNet
+        ├── Preparation.ipynb         
+        ├── PaddleCD
+        │   ├──configs                   
+        │   │   ├──CD
+        │   ├──paddleseg                   
+        │   │   ├──CD           
+        │   ├──contrib               
+        │   ├──data          
+        │   ├──deploy          
+        │   ├──docs               
+        │   ├──EISeg          
+        │   ├──Matting
+        │   ├──paddleseg.egg-info
+        │   ├──test_tipc
+        │   ├──tests
+        │   ├──tools
+        │   ├──requirements.txt
+        │   ├──setup.py
+        ├── README.md              
+    
 
 
 ## Train
