@@ -42,7 +42,7 @@ Part of the code involved in the paper has been uploaded.
 
 # Paper
 
-[Paper](None) ：Mutually Reinforcing Similarity Learning for RS Image Change Detection
+[Paper](None) : Mutually Reinforcing Similarity Learning for RS Image Change Detection
 
 # Model
 
@@ -50,12 +50,12 @@ Part of the code involved in the paper has been uploaded.
 
 # Datasets
 
-Dataset：Levir_CD
+Dataset: Levir_CD
 
 - Data format：.png
     - Note: the data is saved in PaddleCD/data.
 
-Dataset：S2Looking
+Dataset: S2Looking
 
 - Data format：.png
     - Note: the data is saved in PaddleCD/data.
@@ -63,9 +63,9 @@ Dataset：S2Looking
 
 # Evaluation Metrics
 
-## F1
+## F1, Iou, Recall, precision
 
-F1 is adopted as the evaluation index of model training.
+F1, Iou, Recall and precision are adopted as evaluation metrics of model training.
 
 # Environment
 
