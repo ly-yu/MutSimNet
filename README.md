@@ -48,7 +48,7 @@ Part of the code involved in the paper has been uploaded.
 
 [Model Weights](https://pan.baidu.com/s/1Ul-zht8Ww9ADqsxICBpLmQ) : Weight files saved by model training.
 
- password:vpxu
+Password : vpxu
 
 # Datasets
 
