@@ -132,10 +132,29 @@ After installing PaddlePaddle through the official website, you can follow the f
         ├── PaddleCD
         │   ├──configs                   
         │   │   ├──CD
+        │   │   │   ├──config_name.yml
         │   ├──paddleseg                   
-        │   │   ├──CD           
+        │   │   ├──models
+        │   │   ├──core
+        │   │   ├──cvlibs
+        │   │   ├──datasets
+        │   │   ├──deploy
+        │   │   ├──opitimizers
+        │   │   ├──transforms
+        │   │   ├──utils
+        │   │   ├──__init__.py              
         │   ├──contrib               
-        │   ├──data          
+        │   ├──data
+        │   │   ├──train
+        │   │   │   ├──A
+        │   │   │   ├──B
+        │   │   │   ├──label
+        │   │   │   ├──target
+        │   │   ├──val
+        │   │   ├──test
+        │   │   ├──train_split
+        │   │   ├──val_split
+        │   │   ├──test_split              
         │   ├──deploy          
         │   ├──docs               
         │   ├──EISeg          
