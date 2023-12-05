@@ -55,5 +55,6 @@ loss:
   types:
     - type: CrossEntropyLoss
   types:
-    - type: CrossEntropyLoss
+    # - type: CrossEntropyLoss
+    - type: DiceLoss
   coef: [1, 0.4]
