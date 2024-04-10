@@ -33,7 +33,7 @@ Part of the code involved in this paper has been uploaded.
         - [Val](#Val)
             - [Levir_CD](#Verifying)
             - [S2Looking](#Verifying)
-        - [Citations](#Citations)
+- [Citations](#Citations)
     
 <!-- /TOC -->
 
