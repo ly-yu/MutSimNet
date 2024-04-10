@@ -33,6 +33,7 @@ Part of the code involved in this paper has been uploaded.
         - [Val](#Val)
             - [Levir_CD](#Verifying)
             - [S2Looking](#Verifying)
+        - [Citations](#Citations)
     
 <!-- /TOC -->
 
@@ -186,4 +187,21 @@ After installing PaddlePaddle through the official website, you can follow the f
   ```python
 
         python tools/val.py --config --model_path 
+  ```
+
+# Citations
+
+If you find MutSimNet is useful in your research or applications, please consider giving us a star 🌟 and citing it.
+  ```python
+
+  @ARTICLE{10436094,
+  author={Liu, Xu and Liu, Yu and Jiao, Licheng and Li, Lingling and Liu, Fang and Yang, Shuyuan and Hou, Biao},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={MutSimNet: Mutually Reinforcing Similarity Learning for RS Image Change Detection}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-13},
+  keywords={Feature extraction;Transformers;Remote sensing;Task analysis;Semantics;Neural networks;Image edge detection;Change detection (CD);deep learning;feature fuse;multiscale},
+  doi={10.1109/TGRS.2024.3365990}}
   ```
