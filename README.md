@@ -46,6 +46,9 @@ Part of the code involved in the paper has been uploaded.
 
 [Paper](None) : Mutually Reinforcing Similarity Learning for RS Image Change Detection
 
+Open source code website, can be run directly：
+https://aistudio.baidu.com/projectdetail/6512875?contributionType=1&sUid=2499682&shared=1&ts=1716281857642
+
 # Model
 
 [Model Weights](https://pan.baidu.com/s/1Ul-zht8Ww9ADqsxICBpLmQ) : Weight files saved by model training.
